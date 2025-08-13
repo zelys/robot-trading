@@ -2,6 +2,8 @@
 
 Este proyecto implementa un bot de trading algorítmico básico para Bitcoin (BTC) en Python, con lógica avanzada, indicadores técnicos y visualización interactiva. Permite analizar el mercado, tomar decisiones de compra/venta y automatizar el monitoreo en tiempo real.
 
+> _**Advertencia**: Este proyecto tiene únicamente fines educativos y de demostración. Los resultados, análisis y estrategias presentados no constituyen asesoramiento financiero ni una recomendación de inversión. El uso de este código y sus resultados es bajo tu propio riesgo. Antes de tomar cualquier decisión financiera, consulta con un profesional certificado._
+
 ## Características principales
 
 - Obtención automática de datos históricos de BTC/USD desde Yahoo Finance (`yfinance`).
