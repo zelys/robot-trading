@@ -1,0 +1,10 @@
+ipykernel
+nbformat 
+pandas
+numpy
+yfinance
+matplotlib
+plotly
+requests
+bs4
+lxml

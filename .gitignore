@@ -1,0 +1,18 @@
+# Entornos virtuales
+.venv/
+
+# Archivos de Python compilado
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ID's
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
+# Windows
+Thumbs.db
