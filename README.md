@@ -12,6 +12,8 @@ Este proyecto implementa un bot de análisis y toma de decisiones para trading a
 - Visualización interactiva del precio y la decisión tomada usando `plotly`.
 - Automatización del proceso para análisis y visualización en tiempo real.
 
+![Gráfico de precios de BTC](img/newplot.png)
+
 ## Estructura del repositorio
 
 - `Bot_Trader.ipynb`: Notebook principal con todo el flujo de análisis, visualización y automatización.
