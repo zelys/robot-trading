@@ -23,6 +23,19 @@ Este proyecto implementa un bot de trading algorítmico básico para Bitcoin (BT
 - `requirements.txt`: Lista de dependencias necesarias para ejecutar el proyecto.
 - `img/`: Carpeta para imágenes y gráficos generados.
 
+## Requisitos
+
+- Python 3.8+
+- Conexión a internet
+
+## Tecnologías utilizadas
+
+- `yfinance` : Para la obtención de datos históricos de precios.
+- `BeautifulSoup` : Para el web scraping de datos en tiempo real.
+- `pandas` : Para la manipulación y análisis de datos.
+- `numpy` : Para cálculos numéricos y operaciones con matrices.
+- `plotly` : Para la visualización interactiva de gráficos.
+
 ## Instalación
 
 1. Clona este repositorio:
@@ -42,14 +55,9 @@ Este proyecto implementa un bot de trading algorítmico básico para Bitcoin (BT
 
 ## Uso
 
-1. Abre el archivo `Bot_trading.ipynb` en JupyterLab o VS Code.
+1. Abre el archivo `Bot_trading.ipynb` en JupyterLab o VS Code (_instalar extensión de Jupyter_).
 2. Ejecuta las celdas del notebook para analizar, visualizar y automatizar el monitoreo del mercado de Bitcoin.
 3. Puedes personalizar los parámetros de la estrategia y la frecuencia de actualización.
-
-## Requisitos
-
-- Python 3.8+
-- Conexión a internet
 
 ## Créditos
 
